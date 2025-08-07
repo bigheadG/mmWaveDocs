@@ -28,7 +28,7 @@ Notes01:
 
 ## ② FDS : Rule or AI Mode Selection (in JSON)
 
-- **Rule AI Mode Selection: (in JSON)**
+- ⭐ **Rule AI Mode Selection: (in JSON)**
   ```
   {
 	  "options" : ["Rule", "AI", ".", "..", "..."],  
