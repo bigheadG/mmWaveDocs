@@ -17,7 +17,7 @@ Notes01:
 
 # Notes - 2025/07/28
 
-## ① BED : 4 Coners Installation
+## ① BED: 4 Coners Installation
 
 - ⭐ **in JSON:** require parameters (center_x, center_y, rotate_angle)  
 - ⭐ **Height (H):** 2.0 m  
@@ -26,7 +26,7 @@ Notes01:
 
 ---
 
-## ② FDS : Rule or AI Mode Selection (in JSON)
+## ② FDS: Rule or AI Mode Selection (in JSON)
 
 - ⭐ **Rule AI Mode Selection: (in JSON)**
   ```
@@ -37,7 +37,7 @@ Notes01:
   ```
 ---
 
-## ③ FDS : Multiple Models Selection (in JSON)
+## ③ FDS: Multiple Models Selection (in JSON)
 - ⭐ **Multiple Model Selection: (example)** 
 
  ```
@@ -58,7 +58,7 @@ Notes01:
 
 ---
 
-## ④ BED : new request (for alert case need train)
+## ④ BED: new request (for alert case need train)
 
 - ⭐ **Alert Condition :** 1/3 Leg or Hand out of BED
 
@@ -74,7 +74,7 @@ Notes01:
  ```
 ---
 
-## ⑥ FDS :  request for SLOW FALLING (need Train)
+## ⑥ FDS:  request for SLOW FALLING (need Train)
 
 - ⭐ **Status:**  for patient slow falling case (need train)
 
